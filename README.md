@@ -1,20 +1,30 @@
-## Olá! Eu sou Gustavo Santos, Programador e Desenvolvedor de Jogos Digitais
+## Olá! Me chamo Gustavo Santos!
+
+Sou um Programador e Desenvolvedor de Jogos Digitais Brasileiro.
+Graduado em Desenvolvimento de Jogos Digitais, sou apaixonado por tudo que envolve Tecnologia.
 
 
+## Tecnologias, Linguagens e Ferramentas
 
-- 🔭 Atualmente trabalho desenvolvendo um projeto de jogo indie usando a engine da Unity e a linguagem C#
-- 🌱 Estudando Unity e C# ...
-  📧 Contate-me no email: gustavoibapen@hotmail.com
-- 😄 Pronouns: ele/dele
+### Engines
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-
+### Linguagens
 <div style="display: inline_block"><br>
 <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="center" alt="Gustavo-Java" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
-##
- 
+## Projetos em Desenvolvimento
+
+[Ptero-Escape](https://gustavosantosinkiro.itch.io/ptero-escape-2) - Um Jogo Stealth Platformer 2D em desenvolvimento na engine da Unity usando C#
+
+[Slapstick do Janga](https://youtu.be/xzkdqoapQ3Q) - Jogo 2D beat 'em up em desenvolvimento na Unity usando C#, com combate, modo cooperativo local, inteligência artificial, chefes e interfaces.
+
+
+## Onde me Encontrar
+
 <div> 
 <a href="https://discord.com/users/1070937570478927913"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:gustavoibapen90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
