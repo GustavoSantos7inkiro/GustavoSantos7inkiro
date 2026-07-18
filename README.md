@@ -9,8 +9,8 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 
 ### Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
+          
 ### Linguagens
 <div style="display: inline_block"><br>
 <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
