@@ -17,6 +17,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 <div style="display: inline_block"><br>
 <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="center" alt="Gustavo-Java" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img src="https://img.shields.io/badge/Ren'Py-Script-ff7f7f?style=for-the-badge" alt="Ren'Py Script">
 </div>
 
 ## Projetos em Desenvolvimento
