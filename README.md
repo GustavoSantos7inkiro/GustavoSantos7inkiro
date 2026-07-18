@@ -9,7 +9,8 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 
 ### Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Renpy](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />)
+<img align="center" alt="Gustavo-Renpy" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
+          
           
 ### Linguagens
 <div style="display: inline_block"><br>
