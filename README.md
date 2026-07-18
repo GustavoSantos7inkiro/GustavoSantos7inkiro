@@ -3,6 +3,7 @@
 Sou um Programador e Desenvolvedor de Jogos Digitais Brasileiro.
 Graduado em Desenvolvimento de Jogos Digitais, sou apaixonado por tudo que envolve Tecnologia.
 
+---
 
 ## Tecnologias, Linguagens e Ferramentas
 
