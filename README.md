@@ -1,7 +1,7 @@
 ## Olá! Me chamo Gustavo Santos!
 
 Sou um Programador e Desenvolvedor de Jogos Digitais Brasileiro.
-Graduado em Desenvolvimento de Jogos Digitais, sou apaixonado por tudo que envolve Tecnologia.
+Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve Tecnologia.
 
 ---
 
