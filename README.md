@@ -9,7 +9,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 
 ### Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />
+![Renpy](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />)
           
 ### Linguagens
 <div style="display: inline_block"><br>
