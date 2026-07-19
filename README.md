@@ -23,11 +23,11 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 </div>
 
 
-## Link para o meu Portfolio de Jogos
+## Meu Portfolio de Jogos
 
- <p align="center"><a href="https://gustavosantosinkiro.itch.io/"><img src="https://img.shields.io/badge/Ver%20meus%20jogos-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ver meus jogos no itch.io"></a>
-</p>            
-
+<a href="https://gustavosantosinkiro.itch.io/">
+  <img src="https://img.shields.io/badge/Ver%20meus%20jogos-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ver meus jogos no itch.io">
+</a>
 
 ## Projetos em atual Desenvolvimento
 
