@@ -29,6 +29,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 
 ## Onde me Encontrar
 
+
 <div> 
 <a href="https://discord.com/users/1070937570478927913"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:gustavoibapen90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
