@@ -28,7 +28,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
  [itch.io-Gustavo Santos](https://gustavosantosinkiro.itch.io/ptero-escape-2)            
 
 
-## Projetos em Desenvolvimento
+## Projetos em atual Desenvolvimento
 
 [Ptero-Escape](https://gustavosantosinkiro.itch.io/ptero-escape-2) - Um Jogo Stealth Platformer 2D em desenvolvimento na engine da Unity usando C#
 
