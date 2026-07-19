@@ -22,6 +22,51 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript">
 </div>
 
+### Ferramentas
+
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+    alt="Visual Studio"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    alt="Visual Studio Code"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    alt="GitHub"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    alt="Git"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
+    alt="Trello"
+    width="45"
+    height="45"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
+    alt="Arduino"
+    width="45"
+    height="45"
+  />
+</div>
 
 ## Meu Portfolio de Jogos
 
