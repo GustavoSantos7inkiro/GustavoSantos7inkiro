@@ -33,6 +33,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" height="45">
 </p>
 
+---
 
 ## Meu Portfolio de Jogos
 
@@ -44,6 +45,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 
 [Slapstick do Janga](https://youtu.be/xzkdqoapQ3Q) - Jogo 2D beat 'em up em desenvolvimento na Unity usando C#, com combate, modo cooperativo local, inteligência artificial, chefes e interfaces.
 
+---
 
 ## 📊 GitHub Stats
 
