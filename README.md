@@ -24,8 +24,6 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 
 ### Ferramentas
 
-<h3>Ferramentas</h3>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" height="45">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="45">&nbsp;&nbsp;
