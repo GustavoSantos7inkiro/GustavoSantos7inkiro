@@ -40,10 +40,21 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 </div>
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSantos7inkiro/GustavoSantos7inkiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSantos7inkiro/GustavoSantos7inkiro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoSantos7inkiro/GustavoSantos7inkiro/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GustavoSantos7inkiro/GustavoSantos7inkiro/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GustavoSantos7inkiro/GustavoSantos7inkiro/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="Animação da cobra percorrendo minhas contribuições do GitHub"
+      src="https://raw.githubusercontent.com/GustavoSantos7inkiro/GustavoSantos7inkiro/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
+</div>
           
 
