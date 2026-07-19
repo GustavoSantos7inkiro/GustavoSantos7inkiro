@@ -11,9 +11,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren%27Py-FF7F7F?style=for-the-badge)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
-          
-          
+       
 ### Linguagens
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
