@@ -22,6 +22,12 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript">
 </div>
 
+
+## Link para o meu Portfolio de Jogos
+
+       (https://gustavosantosinkiro.itch.io/ptero-escape-2)            
+
+
 ## Projetos em Desenvolvimento
 
 [Ptero-Escape](https://gustavosantosinkiro.itch.io/ptero-escape-2) - Um Jogo Stealth Platformer 2D em desenvolvimento na engine da Unity usando C#
