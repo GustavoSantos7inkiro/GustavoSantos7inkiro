@@ -1,7 +1,7 @@
 ## Olá! Me chamo Gustavo Santos!
 
 Sou um Programador e Desenvolvedor de Jogos Digitais Brasileiro.
-Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve Tecnologia.
+Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologia.
 
 ---
 
@@ -27,6 +27,14 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 [Ptero-Escape](https://gustavosantosinkiro.itch.io/ptero-escape-2) - Um Jogo Stealth Platformer 2D em desenvolvimento na engine da Unity usando C#
 
 [Slapstick do Janga](https://youtu.be/xzkdqoapQ3Q) - Jogo 2D beat 'em up em desenvolvimento na Unity usando C#, com combate, modo cooperativo local, inteligência artificial, chefes e interfaces.
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoSantos7inkiro&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantos7inkiro&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## Onde me Encontrar
