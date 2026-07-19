@@ -10,6 +10,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
 ### Engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren%27Py-FF7F7F?style=for-the-badge)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
           
           
