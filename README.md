@@ -30,8 +30,6 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 
 ## Projetos em atual Desenvolvimento
 
-[Ptero-Escape](https://gustavosantosinkiro.itch.io/ptero-escape-2) - Um Jogo Stealth Platformer 2D em desenvolvimento na engine da Unity usando C#
-
 [Slapstick do Janga](https://youtu.be/xzkdqoapQ3Q) - Jogo 2D beat 'em up em desenvolvimento na Unity usando C#, com combate, modo cooperativo local, inteligência artificial, chefes e interfaces.
 
 
