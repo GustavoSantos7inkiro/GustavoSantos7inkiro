@@ -16,7 +16,8 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por tudo que envolve 
           
 ### Linguagens
 <div style="display: inline_block"><br>
-<img align="center" alt="Gustavo-Java" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Ren'Py-Script-ff7f7f?style=for-the-badge" alt="Ren'Py Script">
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript">
 </div>
