@@ -29,7 +29,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
   <img src="https://img.shields.io/badge/Ver%20meus%20jogos-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ver meus jogos no itch.io">
 </a>
 
-## Projetos em atual Desenvolvimento
+## Projeto em atual Desenvolvimento
 
 [Slapstick do Janga](https://youtu.be/xzkdqoapQ3Q) - Jogo 2D beat 'em up em desenvolvimento na Unity usando C#, com combate, modo cooperativo local, inteligência artificial, chefes e interfaces.
 
