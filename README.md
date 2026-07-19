@@ -25,7 +25,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 
 ## Link para o meu Portfolio de Jogos
 
-       (https://gustavosantosinkiro.itch.io/ptero-escape-2)            
+ [itch.io-Gustavo Santos](https://gustavosantosinkiro.itch.io/ptero-escape-2)            
 
 
 ## Projetos em Desenvolvimento
