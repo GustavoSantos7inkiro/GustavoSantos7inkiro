@@ -52,11 +52,6 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 <p align="left">
   <img
     height="170"
-    src="https://github-stats-extended.vercel.app/api?username=GustavoSantos7inkiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=contribs"
-  />
-  
-  <img
-    height="170"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoSantos7inkiro&layout=compact&theme=tokyonight&locale=pt-br"
   />
 </p>
