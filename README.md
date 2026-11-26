@@ -43,7 +43,7 @@ Graduado em Desenvolvimento de Jogos Digitais e apaixonado por Games e Tecnologi
 
 ## Projeto em atual Desenvolvimento
 
-[Slapstick do Janga](https://youtu.be/xzkdqoapQ3Q) - Jogo 2D beat 'em up em desenvolvimento na Unity usando C#, com combate, modo cooperativo local, inteligência artificial, chefes e interfaces.
+[Slapstick Honk & Bonk](https://youtu.be/xzkdqoapQ3Q) - Jogo 2D beat 'em up em desenvolvimento na Unity usando C#, com combate, modo cooperativo local, inteligência artificial, chefes e interfaces.
 
 ---
 
